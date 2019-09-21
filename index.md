@@ -2,4 +2,4 @@
 layout: default
 title: CocoaHeads Lisbon
 ---
-<h1>{{ "Welcome at CocoaHeads Lisbon!" }}</h1>
+# Welcome at CocoaHeads Lisbon!
